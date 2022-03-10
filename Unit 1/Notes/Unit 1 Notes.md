@@ -11,6 +11,7 @@
   - [Types of Research](#types-of-research)
     - [Primary](#primary)
     - [Secondary](#secondary)
+  - [Research Problem](#research-problem)
 
 ## Key Elements of a Dissertation
 
@@ -53,3 +54,7 @@ One of the considerations when carrying out primary research is the need to obta
 
 This typically relies on secondary sources of data.
 Includes an in-depth review of existing literature and critical analysis of existing data.
+
+## Research Problem
+
+work on this next
