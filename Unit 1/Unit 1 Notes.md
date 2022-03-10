@@ -8,6 +8,9 @@
     - [Literature Review](#literature-review)
     - [Implementation and Exprimentation](#implementation-and-exprimentation)
     - [Evaluation](#evaluation)
+  - [Types of Research](#types-of-research)
+    - [Primary](#primary)
+    - [Secondary](#secondary)
 
 ## Key Elements of a Dissertation
 
@@ -36,3 +39,17 @@ By the end of the dissertation there will likely be a piece of software develope
 ### Evaluation
 
 Evaluating my own work for it's strngsth and weaknesses is all part of critical thinking.
+
+## Types of Research
+
+Durinig the dissertation I will likely use both primary and secondary research where the literature review will be in the form of secondary and the development of an application could be pirmary.
+
+### Primary
+
+Primary research will involve creating data, whether this is the output of an experiment, a piece of software or survey results.
+One of the considerations when carrying out primary research is the need to obtain ethical approval.
+
+### Secondary
+
+This typically relies on secondary sources of data.
+Includes an in-depth review of existing literature and critical analysis of existing data.
