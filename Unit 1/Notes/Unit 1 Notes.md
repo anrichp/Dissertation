@@ -31,19 +31,19 @@ Due to the size of the project it would be useful to plan the project using a pr
 
 ### Literature Review
 
-It is important to understand the existing research landscape.
+It is essential to understand the existing research landscape.
 
 ### Implementation and Exprimentation
 
-By the end of the dissertation there will likely be a piece of software developed.
+By the end of the dissertation, there will likely be a piece of software developed.
 
 ### Evaluation
 
-Evaluating my own work for it's strngsth and weaknesses is all part of critical thinking.
+Evaluating my own work for its strength and weaknesses is all part of critical thinking.
 
 ## Types of Research
 
-Durinig the dissertation I will likely use both primary and secondary research where the literature review will be in the form of secondary and the development of an application could be pirmary.
+During the dissertation, I will likely use both primary and secondary research where the literature review will be secondary, and the development of an application could be primary.
 
 ### Primary
 
