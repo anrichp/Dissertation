@@ -17,6 +17,8 @@
     - [Counter-claiming](#counter-claiming)
     - [Indicating a gap](#indicating-a-gap)
     - [Question rasing](#question-rasing)
+  - [Title of Dissertation](#title-of-dissertation)
+  - [Aims and Objectives](#aims-and-objectives-1)
 
 ## Key Elements of a Dissertation
 
@@ -84,3 +86,14 @@ After the context of the problem narrow the scope of the idea.
 ### Question rasing
 
 - Ask questions about earlier work.
+
+## Title of Dissertation
+
+- Consider a working title.
+- Clear and informative.
+- Communicate what you are writing about.
+
+
+## Aims and Objectives
+
+- Must be smart
