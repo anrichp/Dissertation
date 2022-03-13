@@ -12,6 +12,11 @@
     - [Primary](#primary)
     - [Secondary](#secondary)
   - [Research Problem](#research-problem)
+    - [Identify a topic area](#identify-a-topic-area)
+  - [Cars Model](#cars-model)
+    - [Counter-claiming](#counter-claiming)
+    - [Indicating a gap](#indicating-a-gap)
+    - [Question rasing](#question-rasing)
 
 ## Key Elements of a Dissertation
 
@@ -57,4 +62,25 @@ Includes an in-depth review of existing literature and critical analysis of exis
 
 ## Research Problem
 
-work on this next
+Identify the gap in the knowledge that I want to explore in the dissertation.
+What sort of research do I want to work on?
+
+### Identify a topic area
+
+Investigate areas that are overlooked or lack knowledge.
+Once you have an area, read around the topic and consider who is affected by the problem, how long has the problem been around and, what has been done to date in the research.
+After the context of the problem narrow the scope of the idea. 
+
+## Cars Model
+
+### Counter-claiming 
+
+- Challenging earlier research.
+
+### Indicating a gap
+
+- Identify a gap in the research and highlight that previous research does not adequately address all of the questions or problems.
+
+### Question rasing
+
+- Ask questions about earlier work.
