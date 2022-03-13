@@ -19,6 +19,12 @@
     - [Question rasing](#question-rasing)
   - [Title of Dissertation](#title-of-dissertation)
   - [Aims and Objectives](#aims-and-objectives-1)
+  - [Choosing a Dissertation Topic](#choosing-a-dissertation-topic)
+    - [Identify a broad area of research](#identify-a-broad-area-of-research)
+    - [Review literature](#review-literature)
+    - [Research problems and questions](#research-problems-and-questions)
+    - [Theoretical perspective](#theoretical-perspective)
+    - [Method](#method)
 
 ## Key Elements of a Dissertation
 
@@ -71,11 +77,11 @@ What sort of research do I want to work on?
 
 Investigate areas that are overlooked or lack knowledge.
 Once you have an area, read around the topic and consider who is affected by the problem, how long has the problem been around and, what has been done to date in the research.
-After the context of the problem narrow the scope of the idea. 
+After the context of the problem narrow the scope of the idea.
 
 ## Cars Model
 
-### Counter-claiming 
+### Counter-claiming
 
 - Challenging earlier research.
 
@@ -93,7 +99,34 @@ After the context of the problem narrow the scope of the idea.
 - Clear and informative.
 - Communicate what you are writing about.
 
-
 ## Aims and Objectives
 
 - Must be smart
+
+## Choosing a Dissertation Topic
+
+### Identify a broad area of research
+
+- Faculty support
+  - best to work on a dissertation that has a shared interest
+- Personal interest
+  - You want to be interested in the topic.
+  - You should not be invested in a scenario where you cant be objective.
+
+### Review literature
+
+- Identify topics in a broad.
+- Scope will narrow once you find interesting areas.
+- Focus on learning what has been done, what has not worked, what others have found and what is missing in the literature.
+- Identify a gap in the field; this will be the basis of the problem you want to address.
+
+### Research problems and questions
+
+- Researching the gap in the literature will identify the problem to be addressed.
+- Establish the research questions.
+
+### Theoretical perspective
+
+### Method
+
+- Once you have decided on all of the elements then we can identify the method used. 
