@@ -10,14 +10,16 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {1.2.1}Cross Chain Protocols and thier role in blockchain interoperatabiltiy}{2}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Proposed Research Problem and Research Question}{2}{}%
+\contentsline {section}{\numberline {2}Abstract}{2}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.0.1}Research Problem}{2}{}%
+\contentsline {section}{\numberline {3}Proposed Research Problem and Research Question}{2}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.0.2}Research Question}{2}{}%
+\contentsline {subsubsection}{\numberline {3.0.1}Research Problem}{2}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Proposed Aims and Objectives}{2}{}%
+\contentsline {subsubsection}{\numberline {3.0.2}Research Question}{2}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Proposed Research Design}{2}{}%
+\contentsline {section}{\numberline {4}Proposed Aims and Objectives}{2}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}Artefact/s that can be created}{2}{}%
+\contentsline {section}{\numberline {5}Proposed Research Design}{2}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Artefact/s that can be created}{2}{}%
