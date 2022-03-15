@@ -2,6 +2,13 @@
 
 ## Research problem
 
+### Guiding Questions
+
+* What is the current situation?
+* What is wrong with the situation?
+* What are the most recent eventa that led us to the current situation?
+* What is the setting of the problem.
+
 ### Context
 
 What the current situation is and what needs to change.
