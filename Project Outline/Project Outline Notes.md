@@ -6,7 +6,7 @@
 
 * What is the current situation?
 * What is wrong with the situation?
-* What are the most recent eventa that led us to the current situation?
+* What are the most recent events that led us to the current situation?
 * What is the setting of the problem.
 
 ### Context
