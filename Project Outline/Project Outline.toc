@@ -8,7 +8,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.2}Working Title}{2}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.2.1}Cross Chain Protocols and thier role in blockchain interoperatabiltiy}{2}{}%
+\contentsline {subsubsection}{\numberline {1.2.1}Cross Chain Protocols and their role in blockchain interoperatabiltiy}{2}{}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2}Abstract}{2}{}%
 \defcounter {refsection}{0}\relax 
