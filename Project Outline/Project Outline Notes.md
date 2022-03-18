@@ -77,7 +77,7 @@ Turn this into excel and score these.
 
 #### Elevator pitch
 
-All answers must be no more than one or two scentences.
+All answers must be no more than one or two sentences.
 
 * Come up with a pitch on each of your top three topics.
 * WHAT - explain the big picture of your research.
