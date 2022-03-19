@@ -17,6 +17,13 @@
       - [Elevator pitch](#elevator-pitch)
   - [Hunting for my topic](#hunting-for-my-topic)
     - [Belchior, R. et al. (2021) ‘A Survey on Blockchain Interoperability: Past, Present, and Future Trends’, ACM Computing Surveys, 54(8), p. 168:1-168:41. doi:10.1145/3471140.](#belchior-r-et-al-2021-a-survey-on-blockchain-interoperability-past-present-and-future-trends-acm-computing-surveys-548-p-1681-16841-doi1011453471140)
+      - [Research areas](#research-areas)
+        - [Architecture for Blockchain Interoperability](#architecture-for-blockchain-interoperability)
+        - [Public Connectors](#public-connectors)
+        - [Blockchain of blockchains](#blockchain-of-blockchains)
+        - [Hybrid Connectors](#hybrid-connectors)
+        - [Supporting technologies and stadards, use cases, and others](#supporting-technologies-and-stadards-use-cases-and-others)
+      - [Topics that stand out to me from the list above](#topics-that-stand-out-to-me-from-the-list-above)
 
 # Project Outline Notes
 
@@ -110,3 +117,50 @@ All answers must be no more than one or two sentences.
 ## Hunting for my topic
 
 ### Belchior, R. et al. (2021) ‘A Survey on Blockchain Interoperability: Past, Present, and Future Trends’, ACM Computing Surveys, 54(8), p. 168:1-168:41. doi:10.1145/3471140.
+
+#### Research areas
+
+##### Architecture for Blockchain Interoperability
+
+- Define a blockchain interoperability maturity model, modeling interoperability at its various layers (eg. technological, semantic, organisational)
+- Model the different views on the various types of interoperability, according to different stakeholders (eg. the providers technical view on cross-blockchain dApp vs the semantic view of the end-user on the same cross-blockchain dApp)
+- Study blockchain interoperability semantics by exploring, for example, the research area of view integration.
+
+##### Public Connectors
+
+- Research on how permissioned blockchains can benefit from sidechains to improve scalability and privacy.
+- Develop protocols to allow fiat money exchange, higher liquidity on decentralised exchanges. Conversely, improve the level of privacy and security of centralised exchanges.
+
+##### Blockchain of blockchains
+
+- Integration of existing blockchain systems with Blockchain of Blockchains.
+- Study of Blockchain of Blockchains can provide a reliable interoperability scheme bridging permissioned blockchains and permissionless blockchains.
+- Connect Blockchain of Blockchains to both centralised systems and decentralised ledger systems (eg. Polkadot to Visa)
+
+##### Hybrid Connectors
+
+- Decentralise trust of trusted relays by intergrating them with public blockchains (eg. by submitting the state periodically to a public blockchain)
+- Study how blockchain-agnostic protocols can be easily adapeted to existing ledgers.
+- Explore the blockchain of blockchains approach as an advance in dependable blockchain based applications.
+- Improve atomicity and consistency guarantees on cross-blockchain decentralised applications.
+- Explore blockchain migration across public and permissioned ledgers. Such migration schemes can be decentralised and adapt to functional and non-functional requirements imposed by stakeholders.
+- Explore blockchain migration via non-trusted relays (eg. using a set of public escrow nodes following a protocol.)
+- Develop frameworks for multiple blockchain management. Such frameworks should respond to multiple stakeholder needs, decentralising trust.
+- Model integration abstraction layers that enable the development of universally connected contracts.
+- Research on the visualisation of CC-Txs.
+
+##### Supporting technologies and stadards, use cases, and others
+
+- Research on blockchain interoperability programming languages, suppporting tools, and standards, including but not limited to cross-blockchain programming languages and frameworks, decentralised identifiers and verifiable credentials, and blickchain interoperability standards for enterprise blockchains.
+- Explore new cases using multiple blockchains, the "value-level" interoperability.
+- Research synergies between cryptocurrency-based interoperability approaches, Blockchain of Blockchains, and Hybrid Connectors.
+- Study security aspects of blockchain interoperability.
+- Understand the implications of the diferent interoperability layers (value, semantic, organisational, amoung others)
+
+#### Topics that stand out to me from the list above
+
+- Research on how permissioned blockchains can benefit from sidechains to improve scalability and privacy.
+- Connect Blockchain of Blockchains to both centralised systems and decentralised ledger systems (eg. Polkadot to Visa)
+- Research on the visualisation of CC-Txs.
+- Study security aspects of blockchain interoperability.
+- Understand the implications of the diferent interoperability layers (value, semantic, organisational, amoung others)
