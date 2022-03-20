@@ -6,6 +6,7 @@
 *.bbl
 *.bcf
 *.blg
+*.toc
 Project Outline.run.xml
 settings.json
 Project Outline.bib
