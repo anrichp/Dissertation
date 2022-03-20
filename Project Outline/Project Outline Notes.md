@@ -24,6 +24,8 @@
         - [Hybrid Connectors](#hybrid-connectors)
         - [Supporting technologies and stadards, use cases, and others](#supporting-technologies-and-stadards-use-cases-and-others)
       - [Topics that stand out to me from the list above](#topics-that-stand-out-to-me-from-the-list-above)
+  - [Other Notes](#other-notes)
+    - [Substrate](#substrate)
 
 # Project Outline Notes
 
@@ -164,3 +166,12 @@ All answers must be no more than one or two sentences.
 - Research on the visualisation of CC-Txs.
 - Study security aspects of blockchain interoperability.
 - Understand the implications of the diferent interoperability layers (value, semantic, organisational, amoung others)
+
+---
+
+## Other Notes
+
+### Substrate
+
+- A template for creating other blockchains.
+- Works both as a blockchain and it exists as a blockchain that exists under the polkadot umbrella (shard or para-chain)
