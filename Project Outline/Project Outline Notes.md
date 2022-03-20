@@ -166,7 +166,7 @@ All answers must be no more than one or two sentences.
 - Connect Blockchain of Blockchains to both centralised systems and decentralised ledger systems (eg. Polkadot to Visa)
 - Research on the visualisation of CC-Txs.
 - Study security aspects of blockchain interoperability.
-- Understand the implications of the diferent interoperability layers (value, semantic, organisational, amoung others)
+- Understand the implications of the different interoperability layers (value, semantic, organisational, amoung others)
 
 ---
 
