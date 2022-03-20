@@ -1,3 +1,5 @@
+# Project Outline Notes
+
 - [Project Outline Notes](#project-outline-notes)
   - [Research problem](#research-problem)
     - [Guiding Questions](#guiding-questions)
@@ -27,7 +29,6 @@
   - [Other Notes](#other-notes)
     - [Substrate](#substrate)
 
-# Project Outline Notes
 
 ## Research problem
 
