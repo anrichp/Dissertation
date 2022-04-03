@@ -34,3 +34,10 @@ Once you have a specific question suitable for study in a project, the next step
 - The quantitative aspect is emphasise that measurement is fundemental since it gives connection between observation and the formalisation of the model, theory and hypothesis.
 
 ### Qualitative Research Methods
+
+- Origin in social sciences.
+- Concerned with increasing out understanding of an area, rather than producing an explanation for it. 
+- A problem is studied in a unique setting and identifying problems in organisations. 
+- Repeatability is no always possible.
+
+
