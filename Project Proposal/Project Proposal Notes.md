@@ -60,6 +60,11 @@
 
 ## Write and submit a Project Proposal
 
+- Convince the reader why your project is worthwhile.
+- Don't be subjective.
+- There must be objective ideas.
+- What knowledge is missing and why is it necessary to understand the missing knowledge.
+
 ### Structure
 
 - Title of Project
@@ -73,3 +78,11 @@
     - How (by what steps)  do you intend to achieve the aim of the project?
   - Name
     - Contract information (email, phone)
+
+### Checklist
+
+- Proper language
+- Mandatory information
+- Quality assurance
+- Skills and resources
+- Time estimation
