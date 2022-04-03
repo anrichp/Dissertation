@@ -59,3 +59,17 @@
       - Comparion of the results obtained.
 
 ## Write and submit a Project Proposal
+
+### Structure
+
+- Title of Project
+  - Introduction
+    - To the subject area (e.g. XML documents)
+    - To the problem within the subject area (e.g. preserving links when transforming XML documents to another data format)
+  - Reasons why it is imporant to investigate the chosen problem.
+  - Aim of project
+    - A short description of what you intend to do.
+  - Objectives
+    - How (by what steps)  do you intend to achieve the aim of the project?
+  - Name
+    - Contract information (email, phone)
