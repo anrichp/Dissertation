@@ -39,3 +39,4 @@ Once you have a specific question suitable for study in a project, the next step
 - Concerned with increasing out understanding of an area, rather than producing an explanation for it. 
 - A problem is studied in a unique setting and identifying problems in organisations. 
 - Repeatability is no always possible.
+
