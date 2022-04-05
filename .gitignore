@@ -8,6 +8,7 @@
 *.blg
 *.toc
 *.run.xml
+*.rcgu.o
 Project Outline.run.xml
 settings.json
 ProjectOutline.bib
