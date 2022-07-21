@@ -85,3 +85,18 @@ How can blockchain technology facilitate data interoperability in a banking orga
    - blockchain technology
 
 ## Exercise 1.5
+
+1. What is your specific personal interest?
+   1. The interest, issue, or concern of my research is to explore whether blockchain technology can facilitate a working application for a banking organisation that facilitates organisational interoperability by providing decentralised storage of customer records that is accessible throughout the organisation and kept up to date as changes are made across the organisation. Furthermore, departments within the organisation should have access to the blockchain as an authenticated node on a permissioned network which is different from a publically accessible blockchain network.
+   2. Cross out the least important sentences without changing the key idea.
+      - blockchain technology working application for a banking organisation that facilitates organisational interoperability customer records that is accessible throughout the organisation and kept up to date departments within the organisation should have access to the blockchain as an authenticated node on a permissioned network
+   3. Cross out any words or phrases that can be removed without changing the meaning.
+      - A permissioned banking blockchain facilitating organisational interoperability of customer records allowing departments to assess and update data in real-time.
+   4. Reduce your remaining draft to three sentences.
+      - A permissioned banking blockchain facilitating organisational interoperability of customer records allowing departments to assess and update data in real-time.
+   5. Be sure your final three sentences identify the subject, perspective, and vantage point.
+      - I believe that the sentence above meets these criteria.
+2. What contributions to the field make this research important?
+3. What are your beliefs, values, biases, and opinions about this interest?
+   1. How will these beliefs, values, biases, and opinions help you in conducting your research?
+   2. How will you prevent the beliefs and biases contained in your personal viewpoint from affecting the necessary neutral stance of a researcher?
