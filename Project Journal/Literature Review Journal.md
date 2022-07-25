@@ -10,6 +10,7 @@
     - [Limiting the Interest of Your Study](#limiting-the-interest-of-your-study)
   - [Exercise 1.4](#exercise-14)
   - [Exercise 1.5](#exercise-15)
+  - [Exercise 2.1](#exercise-21)
 
 ## Exercise 1.1
 
@@ -97,6 +98,11 @@ How can blockchain technology facilitate data interoperability in a banking orga
    5. Be sure your final three sentences identify the subject, perspective, and vantage point.
       - I believe that the sentence above meets these criteria.
 2. What contributions to the field make this research important?
+   - From initial reading to identify the topic, I have found very little research into the uses of blockchain technology to store user profiles within a bank. There are a few examples within the health sector; however very little outside of that realm.
 3. What are your beliefs, values, biases, and opinions about this interest?
    1. How will these beliefs, values, biases, and opinions help you in conducting your research?
+      - I am passionate about blockchain technology and its transparency in several use cases. I believe that the technology will ultimately replace the need for human trust as all trust will be based upon consensus reached within the code.
    2. How will you prevent the beliefs and biases contained in your personal viewpoint from affecting the necessary neutral stance of a researcher?
+      - By applying critical thinking and absorbing a collection of different view points that challenge my biases.
+
+## Exercise 2.1
