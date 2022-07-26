@@ -10,6 +10,7 @@
     - [Limiting the Interest of Your Study](#limiting-the-interest-of-your-study)
   - [Exercise 1.4](#exercise-14)
   - [Exercise 1.5](#exercise-15)
+  - [Exercise 3.1](#exercise-31)
 
 ## Exercise 1.1
 
@@ -103,4 +104,22 @@ How can blockchain technology facilitate data interoperability in a banking orga
       - I am passionate about blockchain technology and its transparency in several use cases. I believe that the technology will ultimately replace the need for human trust as all trust will be based upon consensus reached within the code.
    2. How will you prevent the beliefs and biases contained in your personal viewpoint from affecting the necessary neutral stance of a researcher?
       - By applying critical thinking and absorbing a collection of different view points that challenge my biases.
+
+## Exercise 3.1
+
+1. Write your topic, as you currently understand it.
+   - Banking organisations would typically use traditional application stacks to fulfil their business needs. To manage customer records, they would likely have a series of cloud services running that manage various aspects of their banking solutions. Monzo comes to mind where they use a series of microservices to deliver specific functionality to the customer and to their internal staff members. In this research project, I propose these systems be replaced by a permissioned blockchain, where each part of the organisation is represented as a node on the network. Each node on the network must access an up-to-date version of the customer data. Early blockchain technology was used to facilitate cryptocurrencies, less so data sharing within an organisation; however, the trust mechanisms built into blockchain technology provide high levels of trust and the use of blockchain results in data that is auditable throughout its life cycle.
+2. List the literature types that address the core ideas of your topic.
+   - Books
+   - Dissertations
+   - Journals
+   - Websites and Blogs
+3. List the databases you plan to use for your first scan of the literature.
+   - ACM Digital Library
+   - Compendex
+   - Google Scholar
+   - IEEE Xplore
+   - Lecture Notes in Computer Science
+   - Scopus
+   - Web of Science Core Collection
 
