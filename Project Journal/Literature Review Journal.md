@@ -122,4 +122,3 @@ How can blockchain technology facilitate data interoperability in a banking orga
    - Lecture Notes in Computer Science
    - Scopus
    - Web of Science Core Collection
-
