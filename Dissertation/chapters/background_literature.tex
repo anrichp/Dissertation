@@ -48,6 +48,10 @@ In the context of a blockchain, a hash function must be cryptographically secure
 
 A cryptographic hash function must be collision resistant to ensure the function is secure. A cryptographic collision is one where two unique inputs produce the same output \autocite{narayananBitcoinCryptocurrencyTechnologies2016}. For example, an insecure hash function may generate an identical hash where the same characters are in a different order \autocite{nakovPracticalCryptographyDevelopers2018}. To prevent a collision we require a collision detection algorithm, however, the probability of discovering a collision is astronomically small when using a cryptographic hash function such as SHA-256, in this case, due to computational cost, we place our trust in the complexity of the hash function and assume that a collision is unlikely.
 
+\subsubsection{Property 2: Hiding}
+
+The hiding property of a cryptographic hash function supposes that it is impossible to calculate the input of the hash function given the hash output \autocite{narayananBitcoinCryptocurrencyTechnologies2016}. In a blockchain, we make use of a commitment scheme to achieve the hiding property. A commitment uses two algorithmic methods, one called the commitment and verification, the commitment takes an input message and a secret unique random number (nonce) and outputs a commitment hash. The commitment hash is verified by the verification method where the method receives the commitment, message and nonce and will return true if "com = = commit(msg, nonce)" \autocite{narayananBitcoinCryptocurrencyTechnologies2016}. The hiding property is fulfilled when given the commitment it is improbable to find the message.
+
 \subsubsection{Transactions}
 
 \subsubsection{Asymmetric-Key Cryptography}
