@@ -52,6 +52,10 @@ A cryptographic hash function must be collision resistant to ensure the function
 
 The hiding property of a cryptographic hash function supposes that it is impossible to calculate the input of the hash function given the hash output \autocite{narayananBitcoinCryptocurrencyTechnologies2016}. In a blockchain, we make use of a commitment scheme to achieve the hiding property. A commitment uses two algorithmic methods, one called the commitment and verification, the commitment takes an input message and a secret unique random number (nonce) and outputs a commitment hash. The commitment hash is verified by the verification method where the method receives the commitment, message and nonce and will return true if "com = = commit(msg, nonce)" \autocite{narayananBitcoinCryptocurrencyTechnologies2016}. The hiding property is fulfilled when given the commitment it is improbable to find the message.
 
+\subsubsection{Property 3: Puzzle Friendliness}
+
+A puzzle-friendly hash function is difficult to solve using a strategy, rather the puzzle is solved through brute force. To define a puzzle we use the expression \(H(id || x) \epsilon Y \)
+
 \subsubsection{Transactions}
 
 \subsubsection{Asymmetric-Key Cryptography}
