@@ -46,7 +46,7 @@ In the context of a blockchain, a hash function must be cryptographically secure
 
 \paragraph{Property 1: Collision Resistance}
 
-A cryptographic hash function must be collision resistant to ensure the function is secure \autocite{dipierroWhatBlockchain2017}. A cryptographic collision is one where two unique inputs produce the same output \autocite{narayananBitcoinCryptocurrencyTechnologies2016} \autocite{yagaBlockchainTechnologyOverview2018}. For example, an insecure hash function may generate an identical hash where the same characters are in a different order \autocite{nakovPracticalCryptographyDevelopers2018}. To prevent a collision we require a collision detection algorithm, however, the probability of discovering a collision is astronomically small when using a cryptographic hash function such as SHA-256, in this case, due to computational cost, we place our trust in the complexity of the hash function and assume that a collision is unlikely.
+A cryptographic hash function must be collision resistant to ensure the function is secure \autocite{dipierroWhatBlockchain2017}. A cryptographic collision is one where two unique inputs produce the same output \autocite{narayananBitcoinCryptocurrencyTechnologies2016} \autocite{yagaBlockchainTechnologyOverview2018}. For example, an insecure hash function may generate an identical hash where the same characters are in a different order \autocite{nakovPracticalCryptographyDevelopers2018}. To prevent a collision we require a collision detection algorithm, however, the probability of discovering a collision is astronomically small when using a cryptographic hash function such as SHA-256, in this case, due to computational cost, we place our trust in the complexity of the hash function and assume that a collision is unlikely \autocite{yagaBlockchainTechnologyOverview2018}.
 
 \paragraph{Property 2: Hiding}
 
@@ -61,6 +61,8 @@ The hiding property of a cryptographic hash function supposes that it is impossi
     \item id is the id of the puzzle
     \item Y is a target set, i.e the difficulty of the puzzle area that is searched.
 \end{itemize}
+
+
 
 \subsubsection{Hash Pointers and Data Structures}
 
